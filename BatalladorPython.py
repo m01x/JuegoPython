@@ -25,6 +25,7 @@ if confirm=="s":
     dmgOgron_total=0
     while asalto <= rounds:
         if weapon == 1:
+            #TODO pasar a funcion el calculo de damage.
             #Katana, atk 30 1 hit
             dmgPlayer = random.randint(1,30)
             dmgOgron = random.randint(1,30)
