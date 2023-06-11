@@ -2,7 +2,7 @@ import random
 
 player = input("Bienvenido al simulador de combates, Como te llamas: ")
 print("\n")
-print("Vas a enfrentar al monstruo Ogron... escoge tu arma\n")
+print("Vas a enfrentar a Ogron el terrible!!... escoge tu arma\n")
 print("=== ID: 1 Katana: Pega 30, 1 golpe===\n")
 print("=== ID: 2 Dagas Dobles: Pega 10, probabilidad de doble golpe ==\n")
 weapon = int(input("Escoge tu arma, Ingresa el ID: "))
